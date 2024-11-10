@@ -8,7 +8,7 @@ This project is an interactive dashboard created in Excel. It provides a visual 
 - **Professional Visualization**: Designed with an emphasis on clarity and usability.
 
 ## Getting Started
-1. Download the `Dashboard.xlsx` file.
+1. Download the `Zepto_Dashboard.xlsx` file.
 2. Open it in Excel (version 2016 or later recommended).
 3. Use the slicers and filters to explore data changes.
 
